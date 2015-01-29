@@ -1,5 +1,6 @@
 ﻿1.大創百貨
 2.聯合花市(承德路七段)
-second : working in vm
 
+first : working in nb
+second : working in vm
 
